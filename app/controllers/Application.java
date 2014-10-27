@@ -10,7 +10,9 @@ public class Application extends Controller {
 
     public static void index() {
         render();
-        System.out.println("hello");
+        System.out.println("hello"); 
+
+
     }
 	
 
